@@ -1,6 +1,3 @@
-"""
-Example script demonstrating how to run parameter sweeps
-"""
 import numpy as np
 from src.solver import DirectNavierStokesSolver, SolutionStore
 
